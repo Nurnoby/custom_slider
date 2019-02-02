@@ -1,0 +1,36 @@
+.header{
+	background-image: url(../images/banner.jpeg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	/*min-height: 500px;*/
+
+}
+.slider{
+	background-color: rgba(100,100,100,.5);
+}
+.c_style{
+	background-color: transparent;
+	padding: 30px 30px 50px 30px;
+}
+.c_title{
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.text{
+	font-size: 18px;
+    text-align: justify;
+    margin-bottom: 35px;
+}
+.c_button{
+	margin-bottom: 30px;
+}
+.ci{
+
+}
+.ci li{
+	width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin: 0 5px 0 5px;
+}
